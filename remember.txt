@@ -1,0 +1,11 @@
+1. CSV
+2. JSON
+3. OS
+4. Requests
+5. SQLite
+6. beautifulsoup4
+7. selenium
+8. NumPy
+9. Pillow
+10. Matplotlib
+11. Pandas
