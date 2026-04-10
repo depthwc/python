@@ -1,2 +1,0 @@
-
-    keyboard.press(Key.space)
